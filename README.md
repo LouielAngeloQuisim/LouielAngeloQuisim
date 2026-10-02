@@ -24,9 +24,9 @@ My next focus is Laravel application development, with an emphasis on database r
 
 **Languages:** PHP · Python · TypeScript
 
-![Frameworks: FastAPI, React](https://skillicons.dev/icons?i=fastapi,react)
+![Frameworks: FastAPI, React, Symfony](https://skillicons.dev/icons?i=fastapi,react,symfony)
 
-**Frameworks:** FastAPI · React
+**Frameworks & API tools:** FastAPI · React · Symfony · API Platform (Symfony)
 
 ### Next focus
 
