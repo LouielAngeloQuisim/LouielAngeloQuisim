@@ -14,7 +14,7 @@ Building with PHP, FastAPI, and React. Exploring Laravel next.
 
 ## About me
 
-I enjoy turning practical problems into web applications. My projects include a human resource information system built with FastAPI and React, a PHP thesis project, and a personal portfolio.
+I enjoy turning practical problems into web applications. My projects include a human resource information system built with FastAPI and React, a PHP thesis project, a webcam bottle detection prototype for BCASH, and a personal portfolio.
 
 My next focus is Laravel application development, with an emphasis on database relationships, authorization, and automated testing.
 
