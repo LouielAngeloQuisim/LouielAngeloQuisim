@@ -38,6 +38,7 @@ Building a Laravel application with a complete business workflow, clear permissi
 
 | Project | Focus | Technologies |
 | --- | --- | --- |
+| [Bottle Detector](https://github.com/LouielAngeloQuisim/Bottle_Detector) | Webcam bottle recognition prototype for BCASH | Flask · OpenCV · YOLOv4-tiny |
 | [HRIS](https://github.com/LouielAngeloQuisim/HRIS-FastAPI) | Human resource information system | FastAPI · React |
 | [BCASH](https://github.com/LouielAngeloQuisim/THESIS-BCASH) | Thesis project | PHP |
 | [Personal Portfolio](https://github.com/LouielAngeloQuisim/louiel-portfolio) | A space to present my work | TypeScript |
